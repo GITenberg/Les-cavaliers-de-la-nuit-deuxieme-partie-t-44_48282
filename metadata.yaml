@@ -26,5 +26,7 @@ language: fr
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Les cavaliers de la nuit, deuxième partie (t. 4/4)
 url: http://www.gutenberg.org/ebooks/48282
